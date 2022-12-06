@@ -1,0 +1,92 @@
+
+body {
+    text-align: center;
+    margin: 0;
+    color: #333;    
+    font-family: Georgia, serif;
+}
+
+h3 {
+    background-color: #fefbf1;
+    padding: 1rem;
+    border-top: 1px solid #eec45b;
+    font-size: 0.9rem;
+    color: #006400;
+    margin-bottom: 5em;
+}
+
+main {
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+#Introduction {
+    width: 63%;
+    text-align: left;
+    margin: auto;
+}
+
+#First-paragraph {
+    font-size: 1rem;
+}
+
+#Introduction img {
+    width: 100%;
+    border-radius: 10px;
+    -webkit-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+  }
+
+.Author {
+    display: block;
+    color: rgba(0, 0, 0, 0.603);
+    text-align: center;
+    margin-top: 1rem;
+ }
+
+#Site-link {
+    text-align: left;
+    width: 40%;
+    border-left: 1px solid #ffd977;
+    padding-left: 3px;
+    margin-top: 2rem;
+}
+
+#Link {
+    margin-top: 1px;
+    color: #b5460f;
+    display: block;
+}
+
+#Site {
+    color: #177;
+}
+
+.Section-Ingredients {
+    margin-top: 4rem;
+    border-bottom: 1px solid rgb(197, 243, 243);
+    margin-bottom: 2rem;
+  }
+
+h2 {
+    text-align: left;
+}
+
+.Focaccia {
+    text-align: left;
+}
+
+.list {
+    text-align: left;
+    margin-bottom: 2rem;
+}
+
+.Lp {
+    text-align: left;
+}
+
+#footer {
+    text-align: left;
+    color:#177;
+}
